@@ -36,7 +36,8 @@
 // Properties
 @synthesize underlyingImage = _underlyingImage, 
 photoURL = _photoURL,
-caption = _caption;
+caption = _caption,
+photoPath = _photoPath;
 
 #pragma mark Class Methods
 
